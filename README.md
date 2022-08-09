@@ -27,5 +27,5 @@ Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 ### Output
-<img src = "react-weather-app-warm.png">
-<img src = "react-weather-app-cold.png">
+<img src = "react-weather-app-warm.PNG">
+<img src = "react-weather-app-cold.PNG">
